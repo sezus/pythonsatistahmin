@@ -1,0 +1,2 @@
+# pythonsatistahmin
+simit satis tahmin
